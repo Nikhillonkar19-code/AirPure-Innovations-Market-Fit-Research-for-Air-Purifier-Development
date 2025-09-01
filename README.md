@@ -79,8 +79,6 @@ This project analyzes **AQI, health, EV adoption, and demographic data** to iden
 ---
 
 ## 📎 Project Files
-
-* 📑 [Full Project Report (PDF)](AirPure%20Innovations%20%284%29.pdf)
 * 📊 [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTM2ZjYwMWMtYTcwMi00MzdjLTkwNjUtMDQ0N2I1MTQ2MGVjIiwidCI6IjNiYTNhODMxLTFkMzItNDA4My1hMzBjLWQ0YTk0NGYzNWI3ZSJ9&pageName=118a3a826a4bf8cc93bf)
 
 ---
